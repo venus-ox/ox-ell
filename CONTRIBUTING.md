@@ -12,26 +12,26 @@ Thanks for your interest in contributing to OX-ELL.
 
 ## Code style
 
-- Keep changes focused and easy to review.
-- Prefer clear naming and readable code.
-- Add comments only where necessary.
-- Update documentation when behavior changes.
+-    Keep changes focused and easy to review.
+-    Prefer clear naming and readable code.
+-    Add comments only where necessary.
+-    Update documentation when behavior changes.
 
 ## Reporting issues
 
 Please open an issue describing:
 
-- the problem
-- steps to reproduce it
-- expected behavior
-- any relevant logs or screenshots
+-    the problem
+-    steps to reproduce it
+-    expected behavior
+-    any relevant logs or screenshots
 
 ## Pull request checklist
 
-- The change is scoped and tested
-- The description clearly explains the purpose
-- Documentation is updated if required
-- The branch is rebased or up to date with `main`
+-    The change is scoped and tested
+-    The description clearly explains the purpose
+-    Documentation is updated if required
+-    The branch is rebased or up to date with `main`
 
 ## Community
 

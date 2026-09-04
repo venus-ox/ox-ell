@@ -1,60 +1,92 @@
-﻿# OX-ELL
+﻿<div align="center">
+  <img src="assets/banner.svg" alt="OX-ELL Banner" width="800" height="400" />
+</div>
 
-## About
+# OX
 
-The agent that grows with you.
+> The AI operating layer for conversation, automation, and agent workflows.
 
-OX-ELL is an AI-native operating layer for Telegram and Zalo. It combines a terminal-style interface, memory, task planning, and tool execution into one unified gateway for communication and automation.
+OX is an AI-native platform designed to help teams and builders operate across chat channels, automation tasks, and local intelligence workflows without juggling disconnected tools.
 
-## Overview
+From Telegram and Zalo to CLI-based work, OX brings a unified layer for:
 
-OX-ELL helps users move from conversation to action across chat platforms and command-line workflows.
-
-Key capabilities include:
-
-- Terminal-style multi-line editing
-- Slash-command workflows
-- Context-aware conversations
-- Tool execution and automation
-- Cross-platform continuity across Telegram, Zalo, and CLI
-- Memory and learning over time
-
-## Contributing
-
-Contributions are welcome.
-
-If you want to help improve OX-ELL, please:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Open a pull request with a clear description
-
-## Security Policy
-
-We take security seriously.
-
-Please do not disclose vulnerabilities publicly. Report issues privately through the repository security contact or maintainers.
-
-## Activity
-
-This project is under active development and evolving with new capabilities, experiments, and product improvements.
-
-## MIT License
-
-This project is licensed under the MIT License.
-
-See the LICENSE file for full details.
-
-## Custom properties
-
-This repository is designed to support:
-
-- Messaging-first AI workflows
-- Agent memory and learning loops
-- Execution through tools and automation
-- Multi-channel continuity for user productivity
+-    conversational AI
+-    agent-driven automation
+-    multi-channel continuity
+-    task scheduling and background workflows
+-    local or connected model execution
+-    tooling for file and system operations
 
 ---
 
-Built for a smarter, more connected AI experience across chat and command-line workflows.
+## Why OX?
+
+Most AI tools stop at chat and conversation. OX is built to go further:
+
+-    keep context across conversations and channels
+-    let agents act with tools, not just answer prompts
+-    run useful workflows from a terminal, bot, or messaging app
+-    support developers working in real operational environments
+
+The goal is simple: help AI move from a passive assistant to an active operating layer.
+
+---
+
+## Core capabilities
+
+-    Cross-channel messaging: Telegram, Zalo, CLI
+-    Context-aware conversations and memory
+-    Workflow automation and scheduled jobs
+-    Tool calling for local files, shell usage, and integrations
+-    Agent-style task execution with repeatable workflows
+-    Flexible setup for building custom AI operations
+
+---
+
+## Quick start
+
+```bash
+ox setup
+```
+
+This single command initializes the app and prepares the environment for your first workflow.
+
+Example commands:
+
+```bash
+ox chat
+ox cron
+ox skills
+```
+
+---
+
+## Product vision
+
+OX is designed for people who want AI to be more than a chatbot.
+
+It is meant to behave like a practical operating layer for digital work:
+
+-    intelligent
+-    connected
+-    proactive
+-    flexible enough for real-world workflows
+
+---
+
+## Documentation
+
+-    Product overview: [docs/product-overview.md](docs/product-overview.md)
+-    Contributing: [CONTRIBUTING.md](CONTRIBUTING.md)
+-    Security policy: [SECURITY.md](SECURITY.md)
+-    License: [LICENSE](LICENSE)
+
+---
+
+## Community
+
+Built for smart builders who want AI to think, plan, and act across their real workflows.
+
+<div align="center">
+  <sub>Powered by OX • Built for autonomous work</sub>
+</div>
