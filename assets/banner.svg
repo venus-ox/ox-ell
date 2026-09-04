@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 140" role="img" aria-labelledby="title desc">
-  <title id="title">OX-ELL owl logo</title>
-  <desc id="desc">A friendly mascot owl with navy-and-orange palette alongside the OX-ELL wordmark.</desc>
+  <title id="title">OX owl logo</title>
+  <desc id="desc">A friendly mascot owl with navy-and-orange palette alongside the OX wordmark.</desc>
 
   <!-- Owl mascot -->
   <g transform="translate(30, 10) scale(0.65)">
@@ -45,7 +45,7 @@
   </g>
 
   <!-- Wordmark -->
-  <text x="175" y="82" font-family="'Fredoka', 'Nunito', 'Quicksand', sans-serif" font-size="52" font-weight="700" fill="#1a2550" letter-spacing="3">OX-ELL</text>
+  <text x="175" y="82" font-family="'Fredoka', 'Nunito', 'Quicksand', sans-serif" font-size="52" font-weight="700" fill="#1a2550" letter-spacing="3">OX</text>
   <rect x="175" y="95" width="140" height="3" rx="1.5" fill="#f59e2b"/>
   <text x="175" y="118" font-family="'DM Sans', 'Segoe UI', sans-serif" font-size="13" font-weight="500" fill="#2e3e7a" letter-spacing="2.5">AI OPERATING LAYER</text>
 </svg>

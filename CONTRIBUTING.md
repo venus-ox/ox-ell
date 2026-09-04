@@ -1,6 +1,6 @@
-# Contributing to OX-ELL
+# Contributing to OX
 
-Thanks for your interest in contributing to OX-ELL.
+Thanks for your interest in contributing to OX.
 
 ## How to contribute
 

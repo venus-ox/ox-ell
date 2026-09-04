@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/banner.svg" alt="OX-ELL Banner" width="800" height="400" />
+  <img src="assets/banner.svg" alt="OX Banner" width="800" height="400" />
 </div>
 
 # OX
